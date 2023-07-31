@@ -5,6 +5,7 @@
 - Current Overall Grade is: 92%
 - The names of the repositories will include the course code that the college uses for its courses
   - Ex: COMP1002 (HTML, CSS and Javascript Fund)
+  - Clickling the hyperlink will bring you to the coresponding repository
 - [Program Outline](https://cat.georgiancollege.ca/programs/cmpg/)
 
 ### January 9th 2023 - April 21st 2023
@@ -67,6 +68,6 @@ Non-coding classes not included in a repository:
 
 ### After graduating, I may continue to get a degree or get a job in Japan if there's an offer:
 - If I continue education, I will attend Lakehead University, Orillia, Ontario, Canada
-- Program is [Computer Science](https://www.lakeheadgeorgian.ca/programs/computer-science/)
+- Program is named [Computer Science](https://www.lakeheadgeorgian.ca/programs/computer-science/)
   - Will spend only two years due to the partnership at georgian college
   - Will graduate with a degree of honours 
