@@ -49,7 +49,7 @@ Non-coding classes not included in a repository:
 ### Winter Co-op Start and End date can be decieded with Company
 - Need at least 490 work hours 
 
-### May 06, 2024 - August 16th 2023 
+### May 6th, 2024 - August 16th 2023 
 - JavaScript Frameworks (JSFrame_COMP2068)
 - Mobile and Pervasive Computing (Mobile_COMP3025)
 - One other coding class I will pick among a list that includes:
