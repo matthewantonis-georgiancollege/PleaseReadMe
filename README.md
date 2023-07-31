@@ -62,9 +62,9 @@ Non-coding classes not included in a repository:
   - among several others... 
 
 Non-coding classes not included in a repository: 
+- Systems Analysis and Project Management
 - Personal Finance (FIN 4201)
 - Introductory Psychology 1
-- Systems Analysis and Project Management
 
 ### After graduating, I may continue to get a degree or get a job in Japan if there's an offer:
 - If I continue education, I will attend Lakehead University, Orillia, Ontario, Canada
