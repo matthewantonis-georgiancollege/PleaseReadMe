@@ -2,6 +2,7 @@
 
 ## Notes:
 - This is a directory of all my completed works from courses at Georgian College, Barrie, Ontario, Canada
+- Current Overall Grade is: 92%
 - The names of the repositories will include the course code that the college uses for its courses
   - Ex: COMP1002 (HTML, CSS and Javascript Fund)
 - [Program Outline](https://cat.georgiancollege.ca/programs/cmpg/)
