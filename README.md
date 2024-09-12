@@ -26,47 +26,56 @@ Non-coding classes not included in a repository:
 
 ### May 8th 2023 - August 18th 2023
 - Introduction to Web Programming using PHP ([PHP_COMP1006](https://github.com/matthewantonis-georgiancollege/PHP_COMP1006))
-  - Current Weighted Grade: 100%
+  - Grade Recieved: 98%
 - Introduction to Object Oriented Programming using Java ([Java_COMP1008](https://github.com/matthewantonis-georgiancollege/Java_COMP1008))
-  - Current Weighted Grade: Needs updating by professor
+  - Grade Recieved: 77%
 - Interface Design Using CSS ([CSS_COMP1054](https://github.com/matthewantonis-georgiancollege/CSS_COMP1054))
-  - Current Weighted Grade: 98.16%
+  - Grade Recieved: 95%
 - Relational Database ([SQL_COMP2003](https://github.com/matthewantonis-georgiancollege/SQL_COMP2003))
-  - Current Weighted Grade: 91.16%
+  - Grade Recieved: 83%
 - Document Automation Using Python ([Python_COMP1112](https://github.com/matthewantonis-georgiancollege/Python_COMP1112))
-  - Current Weighted Grade: 97.5%
+  - Grade Recieved: 99%
 
 Non-coding classes not included in a repository: 
 - Culture and Communication (COMM2023)
-  - Current Weighted Grade: 98.82%
+  - Grade Recieved: 98%
 
 ### September 5th 2023 - December 15th 2023
 - Advanced Object Oriented Programming using Java (AdvJAVA_COMP1011)
+  - Grade Recieved: 74%
 - Client-Side JavaScript (JS_COMP1073)
+  - Grade Recieved: 89%
 - Server-Side Scripting using ASP.NET (ASP.NET_COMP2084)
+  - Grade Recieved: 99%
 - Cloud Computing Services (SQL_COMP2139)
+  - Grade Recieved: 99%
 
 Non-coding classes not included in a repository: 
-- World Culture and Customs (ARTL2001)
+- Introduction to Entrepreneurship (ENTR1002)
+  - Grade Recieved: 88%
 
 ### Winter Co-op Start and End date can be decieded with Company
 - Need at least 490 work hours 
 
-### May 6th, 2024 - August 16th 2023 
+### January 9th 2024 - April 21st 2024
 - JavaScript Frameworks (JSFrame_COMP2068)
-- Mobile and Pervasive Computing (Mobile_COMP3025)
-- One other coding class I will pick among a list that includes:
-  - Introduction to Artificial Intelligence (COMP3037)
-  - Mobile Development using Swift (COMP2125)
-  - Game and Simulation Programming (COMP3023)
-  - among several others... 
-
-Non-coding classes not included in a repository: 
+  - Grade Recieved: 100%
+- Linux System Administration (COMP2018)
+  - Grade Recieved: 94%
 - Systems Analysis and Project Management
-- Personal Finance (FIN 4201)
-- Introductory Psychology 1
+  - Grade Recieved: 63%
+- Mobile and Pervasive Computing (Mobile_COMP3025)
+  - Grade Recieved: 60%
+ 
+Non-coding classes not included in a repository:
+- Introduction to Artificial Intelligence (COMP3037)
+  - Grade Recieved: 97%  
+- Introduction to Sociology (SOCL1OOO)
+  - Grade Recieved: 92%
+- Legal Cannabis in Canada (GNED1084)
+  - Grade Recieved: 95%
 
-### After graduating, I may continue to get a degree or get a job in Japan if there's an offer:
+### After graduating, I intend to work towards a degree or work if a suitable offer is tabled:
 - If I continue education, I will attend Lakehead University, Orillia, Ontario, Canada
 - Program is named [Computer Science](https://www.lakeheadgeorgian.ca/programs/computer-science/)
   - Will spend only two years due to the partnership at georgian college
