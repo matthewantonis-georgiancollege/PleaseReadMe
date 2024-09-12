@@ -1,8 +1,8 @@
 # Welcome to my Collected Works at Georgian College
 
 ## Notes:
-- This is a directory of all my completed works from courses at Georgian College, Barrie, Ontario, Canada
-- Current Overall Grade is: 92%
+- This is a directory of all most of my completed works from courses at Georgian College, Barrie, Ontario, Canada
+- Completed Overall Grade is: 90.25%
 - The names of the repositories will include the course code that the college uses for its courses
   - Ex: COMP1002 (HTML, CSS and Javascript Fund)
   - Clickling the hyperlink will bring you to the coresponding repository
