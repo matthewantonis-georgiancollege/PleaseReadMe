@@ -62,7 +62,7 @@ Non-coding classes not included in a repository:
   - Grade Recieved: 100%
 - Linux System Administration (COMP2018)
   - Grade Recieved: 94%
-- Systems Analysis and Project Management
+- Systems Analysis and Project Management (COMP 2140)
   - Grade Recieved: 63%
 - Mobile and Pervasive Computing (Mobile_COMP3025)
   - Grade Recieved: 60%
