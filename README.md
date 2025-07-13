@@ -1,7 +1,7 @@
 # Welcome to my Collected Works at Georgian College
 
 ## Notes:
-- This is a directory of all most of my completed works from courses at Georgian College, Barrie, Ontario, Canada
+- This is a directory of most of my completed works from courses at Georgian College, Barrie, Ontario, Canada
 - Completed Overall Grade is: 90.25%
 - The names of the repositories will include the course code that the college uses for its courses
   - Ex: COMP1002 (HTML, CSS and Javascript Fund)
@@ -75,8 +75,4 @@ Non-coding classes not included in a repository:
 - Legal Cannabis in Canada (GNED1084)
   - Grade Recieved: 95%
 
-### After graduating, I intend to work towards a degree or work if a suitable offer is tabled:
-- If I continue education, I will attend Lakehead University, Orillia, Ontario, Canada
-- Program is named [Computer Science](https://www.lakeheadgeorgian.ca/programs/computer-science/)
-  - Will spend only two years due to the partnership at georgian college
-  - Will graduate with a degree of honours 
+### Graduated with Honours 
